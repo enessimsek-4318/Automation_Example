@@ -1,0 +1,7 @@
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\bin\Debug\Otomat.exe.config
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\bin\Debug\Otomat.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\bin\Debug\Otomat.pdb
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\obj\Debug\Otomat.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\obj\Debug\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\obj\Debug\Otomat.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Otomat\Otomat\obj\Debug\Otomat.pdb
